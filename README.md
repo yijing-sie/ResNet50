@@ -10,7 +10,7 @@ The first part of this assignment is to implement from scratch a numpy-based **[
 > For this, I implemented the **Conv1D** and **Conv2D** classes in [mytorch/conv.py](mytorch/conv.py) so that it has similar usage and functionality to **torch.nn.Conv1d** and **torch.nn.Conv2d**
 
 *  I also implemented **padding** and **dilation** functions for 2D convolution in [mytorch/conv.py](mytorch/conv.py)
-*  MyTorch is my own custom deep learning library, which act similar to other deep learning libraries like PyTorch or Tensorflow
+*  [mytorch](mytorch) is my own custom deep learning library, which act similar to other deep learning libraries like PyTorch or Tensorflow
 *  [hw2/cnn.py](hw2/cnn.py) is my implementation of the numpy-based CNN model
 
 ## ResNet-50
