@@ -24,7 +24,7 @@ For the second part, the goal is to implemented from scratch a ResNet50 model to
 
 [face-verification](https://www.kaggle.com/competitions/idl-fall21-hw2p2s2-face-verification)
 
-* All the work for this part can be found in [resnet50](resnet50)
+* All the work for this part can be found in [resnet50.ipynb](resnet50.ipynb)
 
 
 
