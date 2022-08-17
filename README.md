@@ -21,13 +21,17 @@ For the second part, the goal is to implemented from scratch a ResNet50 model to
 
 [face-classification](https://www.kaggle.com/competitions/idl-fall21-hw2p2s1-face-classification)
 
+* For face classification, my model achieves **0.87339** accuracy on `test` set
+
+* It's ranked number **14** in a class of 300+ students
 
 [face-verification](https://www.kaggle.com/competitions/idl-fall21-hw2p2s2-face-verification)
 
-* All my work for this part can be found in [resnet50.ipynb](resnet50.ipynb)
-* For face classification, my model achieves **0.87339** accuracy on `test` set
 * For face verification, my model achieves **0.94032** AUC on `test` set
 
+* It's ranked top **15%** in a class of 300+ students
+
+* All my work for this part can be found in [resnet50.ipynb](resnet50.ipynb)
 
 
 
