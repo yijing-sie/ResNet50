@@ -5,14 +5,12 @@ Intro to Deep Learning assignment:
 
 ## Convolution Neural Network
 
-The first part of this assignment is to implement from scratch a [CNN](hw2/cnn.py) model **using NumPy only**
+The first part of this assignment is to implement from scratch [Conv1d and Conv2d layers](mytorch/conv.py) and a [CNN classifier](hw2/cnn.py) **using NumPy only**
 
-* For this, I implemented the **Conv1D** and **Conv2D** classes in [mytorch/conv.py](mytorch/conv.py) so that it has similar usage and functionality to **torch.nn.Conv1d** and **torch.nn.Conv2d**
+* [mytorch/conv.py](mytorch/conv.py) contains the forward and backward passes implementation of **Conv1D** and **Conv2D** that are similar to **torch.nn.Conv1d** and **torch.nn.Conv2d** respectively
 > [mytorch](mytorch) is my custom deep learning library, built entirely in NumPy, that functions similarly to established DL lebraries like PyTorch or TensorFlow
 
-*  I also implemented **padding** and **dilation** functions for 2D convolution in [mytorch/conv.py](mytorch/conv.py)
-
-*  [hw2/cnn.py](hw2/cnn.py) is my implementation of the numpy-based CNN model
+*  [hw2/cnn.py](hw2/cnn.py) is a pure-Numpy CNN classifier class
 
 ## ResNet-50
 
