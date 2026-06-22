@@ -22,7 +22,7 @@ For the second part, the goal is to implement from scratch a ResNet50 model to p
 
 * For face classification, my model achieves **0.87339** accuracy on `test` set
 
-* It's ranked number **14** in a class of 300+ students
+* It's ranked number **14 (Top 4%)** in a class of 300+ students
 
 [face-verification](https://www.kaggle.com/competitions/idl-fall21-hw2p2s2-face-verification)
 
